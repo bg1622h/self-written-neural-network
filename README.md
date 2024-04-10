@@ -1,2 +1,2 @@
-# self-written-neural-network
+# Self-written-neural-network
 Нейронная сеть (слои из которых её можно построить) собственная реализация с++
